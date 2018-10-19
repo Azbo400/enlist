@@ -1,6 +1,7 @@
 # Enlist
 Recruitment software.
 
+
 ## Requirements
 
 1. Python +3
@@ -26,5 +27,7 @@ This project has a [Code of Conduct](https://github.com/DevoidLabs/enlist/blob/m
 
 ## Contributing.
 Contributions from anyone and everyone are welcome. You can get started by browsing for any open and unclaimed issues or by starting a new issue. If you want to implement a new functionality, please open a new issue with the label "feature".
+
+For more detail on contributing check out the contributing file [here](https://github.com/DevoidLabs/enlist/blob/master/CONTRIBUTING.md)
 
 
